@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/rafia_rasheed_portfolio/static/css/main.f995ec2e.css",
+    "main.js": "/rafia_rasheed_portfolio/static/js/main.a5adf972.js",
+    "static/media/sapphire-image.webp": "/rafia_rasheed_portfolio/static/media/sapphire-image.5d9412517f29cde9ef88.webp",
+    "static/media/logo.png": "/rafia_rasheed_portfolio/static/media/logo.9a843eb2c49522120157.png",
+    "static/media/aero-img.avif": "/rafia_rasheed_portfolio/static/media/aero-img.d9dfd22b502495905281.avif",
+    "static/media/bareeze-image.jfif": "/rafia_rasheed_portfolio/static/media/bareeze-image.ad6a32b708b9850d2aa1.jfif",
+    "index.html": "/rafia_rasheed_portfolio/index.html",
+    "main.f995ec2e.css.map": "/rafia_rasheed_portfolio/static/css/main.f995ec2e.css.map",
+    "main.a5adf972.js.map": "/rafia_rasheed_portfolio/static/js/main.a5adf972.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f995ec2e.css",
+    "static/js/main.a5adf972.js"
+  ]
+}
