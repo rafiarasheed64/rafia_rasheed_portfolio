@@ -8,10 +8,10 @@ import { FaGithub, FaNode } from "react-icons/fa";
 
 const About = () => {
     const handleDownload = () => {
-        const cvFileUrl = 'https://drive.google.com/uc?export=download&id=1fNuLOYV6vwwjon8ha6qv3_GybsNdOZZ-';
+        const cvFileUrl = 'https://drive.google.com/file/d/1VoBpN8gu1FoA8InFHoOznGaG4qAE7WPR/view';
         const link = document.createElement('a');
         link.href = cvFileUrl;
-        link.download = 'FARIHA-Resume.pdf';
+        link.download = 'Rafia-Resume.pdf';
         document.body.appendChild(link);
         link.click();
         document.body.removeChild(link);
