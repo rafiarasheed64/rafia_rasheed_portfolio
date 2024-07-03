@@ -21,11 +21,6 @@ const Home = () => {
             <h1 className="text-4xl font-semibold mt-8 text-[rgb(48,127,128)] h-text">
               MERN Stack Developer
             </h1>
-            {/* <div className="main text-4xl font-semibold text-[rgb(48,127,128)] mt-3">
-              <h1 className="absolute s-1">JavaScript</h1>
-              <h1 className="absolute s-2">React JS</h1>
-              <h1 className="absolute s-3">Next JS</h1>
-            </div> */}
             <div className="main text-4xl font-semibold text-[rgb(48,127,128)] mt-3">
               <h1 className="absolute s-1">JavaScript</h1>
               <h1 className="absolute s-2">React JS</h1>

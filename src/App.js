@@ -2,7 +2,6 @@ import './App.css';
 import React, { useState, useEffect } from 'react';
 import Home from './Components/Home';
 import About from './Components/About';
-import Services from './Components/Services';
 import Works from './Components/Works';
 import Blog from './Components/Blog';
 import Contact from './Components/Contact';
@@ -27,7 +26,6 @@ function App() {
           <Navbar />
           <Home />
           <About />
-          {/* <Services /> */}
           <Works />
           <Blog />
           <Contact />
@@ -40,3 +38,6 @@ function App() {
 
 
 export default App;
+
+
+
